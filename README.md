@@ -16,7 +16,7 @@ Single dependency for logging on the JVM.
 
 ## Latest version
 
-[![Clojars Project](http://clojars.org/metosin/clogger/latest-version.svg)](http://clojars.org/metosin/clogger)
+[![Clojars Project](http://clojars.org/metosin/lokit/latest-version.svg)](http://clojars.org/metosin/lokit)
 
 ## License
 
