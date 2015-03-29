@@ -7,12 +7,12 @@ Single dependency for logging on the JVM.
 * simple Clojure API for logging via `
 
 ## TODO
-[ ] figure out if this library is a good idea 
-[ ] name for the library
-[ ] great `logback.xml`
-[ ] verify all logs really flow via this
-[ ] `lokit.core` clojure-api (with clojure line numbers)
-[ ] logging clojure data structures (to logstash etc.)
+- [ ] figure out if this library is a good idea 
+- [ ] name for the library
+- [ ] great `logback.xml`
+- [ ] verify all logs really flow via this
+- [ ] `lokit.core` clojure-api (with clojure line numbers)
+- [ ] logging clojure data structures (to logstash etc.)
 
 ## Latest version
 
