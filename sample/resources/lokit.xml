@@ -1,0 +1,11 @@
+<included>
+  <logger name="sample.jabba" level="DEBUG"/>
+  <logger name="sample.abba" level="INFO"/>
+
+  <!--
+  <root level="ERROR">
+    <appender-ref ref="CONSOLE"/>
+  </root>
+  -->
+
+</included>
