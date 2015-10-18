@@ -1,5 +1,5 @@
 (defproject metosin/lokit "0.0.1-SNAPSHOT"
-  :description "Clojure Logging Library"
+  :description "Single dependency for logging on the JVM."
   :url "https://github.com/metosin/lokit"
   :license {:name         "Eclipse Public License"
             :url          "http://www.eclipse.org/legal/epl-v10.html"
