@@ -1,6 +1,6 @@
 (ns sample.abba
-  (:require [clojure.tools.logging :refer :all]))
+  (:require [clojure.tools.logging :as log]))
 
 (defn logit! []
-  (debug "abba debug")
-  (info  "abba info"))
+  (log/debug "abba debug")
+  (log/info  "abba info"))
