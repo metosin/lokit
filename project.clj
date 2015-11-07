@@ -1,4 +1,4 @@
-(defproject metosin/lokit "0.0.1-SNAPSHOT"
+(defproject metosin/lokit "0.1.0"
   :description "Single dependency for logging on the JVM."
   :url "https://github.com/metosin/lokit"
   :license {:name         "Eclipse Public License"
