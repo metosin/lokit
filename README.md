@@ -1,9 +1,13 @@
 # Lokit
 
-Single dependency for logging on the JVM.
+Notes:
 
-* contains all dependencies to handle logging of of jcl, jul and log4j
-* provides a `logback.xml` with opinionated defaults
+All the options are provided as a single map to `configure` function.
+The function initializes Configurator again and runs `autoConfig` to
+completely reset Logback configuration.
+
+Not sure if pause-logging, replay-logs and get-log-string/stream should be
+dynamic? Probably.
 
 ## Latest version
 

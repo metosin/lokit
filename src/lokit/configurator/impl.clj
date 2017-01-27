@@ -16,9 +16,9 @@
   [[] (atom nil)])
 
 (defn -configure [this ^LoggerContext lc]
+  ;; What does this do?
   (.addInfo this "Initializing Lokit dynamic log configurator.")
 
-  ;; fixme: template params?
   (let [appender (doto (ConsoleAppender.)
                    (.setContext lc)
                    (.setName "console"))
